@@ -23,7 +23,7 @@ export default function Projects(){
             image:faballay,
             description:"A clone of one of the India's leading online cloth shopping store",
             github:"https://github.com/Sunil-JJ/FabAlley",
-            live:"https://tata1mg-clone-project.netlify.app/",
+            live:"https://fab-alley-clone-10.vercel.app/",
             techStack : "HTML | CSS | JAVASCRIPT | JSON Server "
         },
         {
