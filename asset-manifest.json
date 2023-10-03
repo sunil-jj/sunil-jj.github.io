@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.073c9b0a.css",
-    "main.js": "/static/js/main.f4f06ff7.js",
+    "main.js": "/static/js/main.c229d921.js",
     "static/js/787.ae61a12f.chunk.js": "/static/js/787.ae61a12f.chunk.js",
     "static/media/faballeypic.png": "/static/media/faballeypic.1564ab74de2d15363d8c.png",
     "static/media/softskillcover.jpg": "/static/media/softskillcover.0146dec1a656967f521f.jpg",
@@ -26,11 +26,11 @@
     "static/media/js.png": "/static/media/js.e9d170f029643ca8763d.png",
     "index.html": "/index.html",
     "main.073c9b0a.css.map": "/static/css/main.073c9b0a.css.map",
-    "main.f4f06ff7.js.map": "/static/js/main.f4f06ff7.js.map",
+    "main.c229d921.js.map": "/static/js/main.c229d921.js.map",
     "787.ae61a12f.chunk.js.map": "/static/js/787.ae61a12f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.f4f06ff7.js"
+    "static/js/main.c229d921.js"
   ]
 }
