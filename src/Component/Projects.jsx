@@ -39,8 +39,8 @@ export default function Projects(){
             name:"Portfolio Website",
             image:port,
             description:"Personal portfolio website",
-            github:"https://github.com/pranshushuklagithub/pranshushuklagithub.github.io.git",
-            live:"https://pranshushuklagithub.github.io",
+            github:"https://github.com/sunil-jj/sunil-jj.github.io",
+            live:"https://sunil-jj.github.io/",
             techStack : "ReactJS | ChakraUI | JAVASCRIPT | CSS | REDUX"
         }
         
